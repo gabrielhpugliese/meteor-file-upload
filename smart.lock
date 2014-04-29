@@ -1,0 +1,26 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "stylus-latest": {},
+      "iron-router": {}
+    },
+    "packages": {
+      "stylus-latest": {
+        "git": "https://github.com/sbking/meteor-stylus-latest.git",
+        "tag": "v0.44.0",
+        "commit": "1d63d3e42136cbedfa53fc1ebf56e017373f4ffe"
+      },
+      "iron-router": {
+        "git": "https://github.com/EventedMind/iron-router.git",
+        "tag": "v0.7.1",
+        "commit": "d1ffb3f06ea4c112132b030f2eb1a70b81675ecb"
+      },
+      "blaze-layout": {
+        "git": "https://github.com/EventedMind/blaze-layout.git",
+        "tag": "v0.2.4",
+        "commit": "b40e9b0612329288d75cf52ad14a7da64bb8618f"
+      }
+    }
+  }
+}
